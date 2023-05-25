@@ -5,7 +5,7 @@
             "username":"ramanand",
             "email":"r@gmail.com",
             "password":"123",
-            "Doctor-Checkbox":"user"
+            "isDoctor":"user"
         }
     ],
     "appointments":[
